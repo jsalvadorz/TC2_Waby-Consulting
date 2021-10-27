@@ -1,0 +1,7 @@
+C:\Users\MANPOWER\Desktop\UPN\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC2\Caso_01\Caso_01\bin\Debug\Caso_01.exe.config
+C:\Users\MANPOWER\Desktop\UPN\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC2\Caso_01\Caso_01\bin\Debug\Caso_01.exe
+C:\Users\MANPOWER\Desktop\UPN\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC2\Caso_01\Caso_01\bin\Debug\Caso_01.pdb
+C:\Users\MANPOWER\Desktop\UPN\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC2\Caso_01\Caso_01\obj\Debug\Caso_01.csproj.AssemblyReference.cache
+C:\Users\MANPOWER\Desktop\UPN\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC2\Caso_01\Caso_01\obj\Debug\Caso_01.csproj.CoreCompileInputs.cache
+C:\Users\MANPOWER\Desktop\UPN\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC2\Caso_01\Caso_01\obj\Debug\Caso_01.exe
+C:\Users\MANPOWER\Desktop\UPN\4TO CICLO\ESTRUCTURA DE DATOS\TC\TC2\Caso_01\Caso_01\obj\Debug\Caso_01.pdb
